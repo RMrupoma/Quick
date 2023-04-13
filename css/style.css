@@ -56,7 +56,7 @@ header{
 	display: inline-block;
 	color:#0F2656;
 }
-.menu ul a :hover {
+.menu ul li a :hover {
 	color:#0F2656;
 }
 .menu ul :last-child a{
